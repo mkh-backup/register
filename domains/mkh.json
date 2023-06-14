@@ -1,0 +1,11 @@
+{
+    "description": "mkh's personal site",
+    "repo": "https://github.com/mkh-backup/mkh-dev.github.io",
+    "owner": {
+        "username": "mkh-backup",
+        "email": "malek.kh211@gmail.com"
+    },
+    "record": {
+        "CNAME": "mkh-dev.github.io"
+    }
+}
